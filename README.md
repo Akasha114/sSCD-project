@@ -1,1 +1,1 @@
-# sSCD-project
+# SCD-project
